@@ -1,7 +1,13 @@
-body {
-    padding: 0px 100px;
-}
 .header {
     display: flex;
     justify-content:  space-between;
+    height: 75px;
+    background-color: lightblue;
 }
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
