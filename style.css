@@ -1,12 +1,13 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0px;
 }
 
 .header {
     display: flex;
     justify-content:  space-between;
-    height: 100px;
+    height: 75px;
     background-color: #1F2937;
     flex: 1 0 auto;
     align-items: center;
@@ -15,7 +16,7 @@ body {
 
 .header-logo{
     font-family: 'Roboto', sans-serif;
-    font: 48px bold;
+    font: 24px bold;
     color: #F9FAF8;
 }
 
