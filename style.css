@@ -1,8 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
     justify-content:  space-between;
     height: 75px;
     background-color: #1F2937;
+    flex: 1 0 auto;
 }
 
 .header-logo{
