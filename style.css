@@ -101,7 +101,6 @@ h2 {
 
 .info {
     display: flex;
-    border: 1px solid;
     width: 175px;
     height: 250px;
     flex-wrap: wrap;
