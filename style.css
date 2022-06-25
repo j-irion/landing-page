@@ -196,6 +196,14 @@ h3 {
     width: 600px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: #1F2937;
+}
+
 a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
