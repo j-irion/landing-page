@@ -2,7 +2,13 @@
     display: flex;
     justify-content:  space-between;
     height: 75px;
-    background-color: lightblue;
+    background-color: #1F2937;
+}
+
+.header-logo{
+    font-family: 'Roboto', sans-serif;
+    font: 48px bold;
+    color: #F9FAF8;
 }
 
 ul {
